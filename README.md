@@ -18,8 +18,6 @@ Skills: Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msy1717)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Mogaka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=msy1717)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=msy1717&show_icons=true&count_private=true&theme=tokyonight)
 
 ![Profile views](https://gpvc.arturio.dev/msy1717)  
