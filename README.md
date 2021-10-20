@@ -3,7 +3,7 @@ I am a python developer who is really passionate of its technologies
 
 Skills: Python
 
-- 🔭 I’m currently working on Ultroid
+- 🔭 I’m currently working on FireX-Userbot
 - 🌱 I’m currently learning React Native 
 - 📫 How to reach me: mrunalgaming7@gmail.com
 - 😄 Pronouns: he
