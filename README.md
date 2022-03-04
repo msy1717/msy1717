@@ -5,7 +5,7 @@ Skills: Python
 
 - 🔭 I’m currently working on BeastX-Userbot
 - 🌱 I’m currently learning React Native 
-- 📫 How to reach me: [Telegram]'(t.me/Godmrunal)  
+- 📫 How to reach me: [Telegram](t.me/Godmrunal)  
 - 😄 Pronouns: he
 - ⚡ Most of Repositories are for *Telegram*
 
