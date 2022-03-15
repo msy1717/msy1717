@@ -8,6 +8,7 @@ Skills: Python
 - 📫 How to reach me: [Telegram](t.me/Godmrunal)  
 - 😄 Pronouns: he
 - ⚡ Most of Repositories are for *Telegram*
+- ☘️ From Jalgaon/Maharashtra 😁
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/msy1717) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mrunaaal_19/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/19Mrunal)  
