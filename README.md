@@ -13,7 +13,7 @@ I am a Python developer who is really passionate about its technologies.
 
 ---
 
-### ⏱️ Total Coding Time: **639 hrs 9 mins**
+### ⏱️ Total Coding Time: **1000 hrs 9 mins**
 
 
 ### 🔗 Socials & Links
