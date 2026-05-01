@@ -1,53 +1,97 @@
-## Hi there 👋  
-I am a Python developer who is really passionate about its technologies.
-
-### Skills:  
-**Python**
-
-- 🔭 I’m currently working on BeastX-Userbot  
-- 🌱 I’m currently learning React Native  
-- 📫 How to reach me: [Telegram](https://t.me/Godmrunal)  
-- 😄 Pronouns: he  
-- ⚡ Most of Repositories are for *Telegram*  
-- ☘️ From Jalgaon/Maharashtra 😁  
+<h1 align="center">Hi 👋, I'm Mrunal Yeole (@GodMrunaL)</h1>
+<h3 align="center">🚀 Telegram Bot Developer | Automation Expert | Web & Game Developer</h3>
 
 ---
 
-### ⏱️ Total Coding Time: **1000 hrs 9 mins**
-
-
-### 🔗 Socials & Links
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/msy1717)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/19Mrunal)
+## 🧠 About Me
+- 💻 Passionate developer with **4-5 years of experience**
+- ⚡ Started coding for fun → now building powerful automation systems
+- 🤖 Specialized in **Telegram bots, Instagram/YouTube/TikTok automation**
+- 🌐 Also working on **web development & online games**
+- 🔥 Love creating tools that save time & scale work
 
 ---
 
-### 🏅 Badges
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=msy1717)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 What I Do
+- 🤖 Advanced **Telegram Bots (Telethon / Pyrogram)**
+- 📲 Social Media Automation (**Instagram, YouTube, TikTok**)
+- 🌐 Web Development & Panels
+- ⚙️ API Development & Integrations
+- 🗄️ Database Management (MongoDB / SQL)
+- 🕷️ Scrapers & Data Extraction Tools
+- 🎮 Online Game Development
+- 💻 Terminal Tools & Scripts
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msy1717)](https://github.com/anuraghazra/github-readme-stats)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=msy1717&show_icons=true&count_private=true&theme=tokyonight)  
+### 👨‍💻 Languages
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-darkgreen?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 
 ---
 
-### 👀 Profile Views
+### ⚙️ Tools & Frameworks
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Telethon](https://img.shields.io/badge/Telethon-blue?style=for-the-badge)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-darkblue?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge)
 
-![Profile views](https://gpvc.arturio.dev/msy1717)
+---
 
+## 🔥 Projects & Work
+- 🤖 Telegram Bots & Automation Systems  
+- 🛠️ Admin Panels & Dashboards  
+- 📊 Scrapers & API Tools  
+- ⚡ High-performance Automation Scripts  
+- 🎮 Browser & Online Games  
+- 💻 Terminal-Based Utilities  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GodMrunaL&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodMrunaL&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Mrunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GodMrunaL&theme=tokyo-night)](https://github.com/GodMrunaL)
+
+---
+
+## 🧩 Visitors Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GodMrunaL&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+## 📬 Contact Me
+
+- 💬 Telegram: https://t.me/GodmrunaL  
+- 📢 Channel: https://t.me/Beastx_Bots  
+- 🛠️ Support: https://t.me/Beastx_Support  
+- ▶️ YouTube: https://youtube.com/@BeastXBots  
+
+---
+
+## ⚡ Quote
+> "Started for fun. Now building systems that automate everything."
+
+---
+
+<p align="center">
+🔥 Building. Automating. Scaling. 🔥
+</p>
