@@ -58,15 +58,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GodMrunaL&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodMrunaL&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=msy1717&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msy1717&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Mrunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GodMrunaL&theme=tokyo-night)](https://github.com/GodMrunaL)
+[![Mrunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=msy1717&theme=tokyo-night)](https://github.com/msy1717)
 
 ---
 
