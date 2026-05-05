@@ -8,19 +8,19 @@
 - ⚡ Started coding for fun → now building powerful automation systems
 - 🤖 Specialized in **Telegram bots, Instagram/YouTube/TikTok automation**
 - 🌐 Also working on **web development & online games**
-- 🔥 Love creating tools that save time & scale work
+- 🔥 Focused on building tools that automate workflows & scale systems efficiently
 
 ---
 
 ## 🚀 What I Do
 - 🤖 Advanced **Telegram Bots (Telethon / Pyrogram)**
 - 📲 Social Media Automation (**Instagram, YouTube, TikTok**)
-- 🌐 Web Development & Panels
+- 🌐 Web Development & Admin Panels
 - ⚙️ API Development & Integrations
-- 🗄️ Database Management (MongoDB / SQL)
-- 🕷️ Scrapers & Data Extraction Tools
-- 🎮 Online Game Development
-- 💻 Terminal Tools & Scripts
+- 🗄️ Database Management (**MongoDB / SQL**)
+- 🕷️ Scrapers & Data Extraction Systems
+- 🎮 Online & Browser Game Development
+- 💻 Terminal Tools & Automation Scripts
 
 ---
 
@@ -55,6 +55,15 @@
 
 ---
 
+## 👤 GitHub Presence
+
+- 🔹 Main Account: https://github.com/msy1717  
+- 🔹 Secondary Account (Testing / Production / Experiments): https://github.com/atronpay7  
+
+📌 *Some projects, commits, and experimental builds are maintained across both accounts.*
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -73,8 +82,19 @@
 ## 🧩 Visitors Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GodMrunaL&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=msy1717&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
+
+---
+
+## 🎓 College Projects / Custom Work
+
+💡 I also build **college projects & custom systems** based on your requirements.
+
+- 📄 You provide: Idea / Datasheet / Requirements  
+- ⚙️ I deliver: Complete working project (code + logic)
+
+📩 Contact me on Telegram if interested.
 
 ---
 
